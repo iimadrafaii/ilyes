@@ -1,4 +1,5 @@
 XAMPP :
     https://www.apachefriends.org/download.html
 
-
+chmod +x xampp-linux-*-installer.run
+sudo ./xampp-linux-*-installer.run
