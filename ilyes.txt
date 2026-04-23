@@ -24,6 +24,7 @@ Install Laravel :
         nano ~/.bashrc
         Go to the very bottom and paste this line:
             export PATH="$PATH:$HOME/.config/composer/vendor/bin"
+        source ~/.bashrc
 
 
 
